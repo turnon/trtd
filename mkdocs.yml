@@ -5,5 +5,7 @@ nav:
   - Titles: titles.md
   - Principals: principals.md
 
-theme: material
+# theme: material
 # theme: readthedocs
+theme:
+  name: dracula
