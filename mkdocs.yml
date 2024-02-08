@@ -2,7 +2,8 @@ site_name: My Docs
 nav:
   - Home: index.md
   - About: about.md
-  - Categories: mostVotedNamesEveryPrincipal.md
+  - Titles: titles.md
+  - Principals: principals.md
 
-# theme: material
-theme: readthedocs
+theme: material
+# theme: readthedocs
